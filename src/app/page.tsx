@@ -1,5 +1,5 @@
-import { UserInfo } from "../component/userInfo";
-import { AuthButtons } from "../component/authButtons";
+import { UserInfo } from "../components/userInfo";
+import { AuthButtons } from "../components/authButtons";
 
 export default async function Home() {
 
